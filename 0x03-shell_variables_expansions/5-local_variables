@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv ="ls -al"
+diff set.sorted printenv.sorted | grep 0 | wc l +1
