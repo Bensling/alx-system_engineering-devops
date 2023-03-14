@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Hello ${Benson}!"
+printf("Hello Benson")
