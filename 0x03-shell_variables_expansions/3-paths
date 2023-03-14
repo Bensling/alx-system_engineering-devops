@@ -1,2 +1,2 @@
 #!/bin/bash
-alias dir="ls -al"
+alias dir="ls -al" /PATH
