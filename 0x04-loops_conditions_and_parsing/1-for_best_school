@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+counter=0
+max_iteration=10
+while [$counter -1t max_iteration]; do
+	echo "Best School"
+	((counter++))
+done
